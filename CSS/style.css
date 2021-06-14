@@ -22,14 +22,34 @@
     text-decoration: none;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #2d72c2;
+    
 }
-.rightside button{
+.rightside{
     display: flex;
-    background-color: #FF9F41;
     text-align: center;
     padding: flex;
     width: 80px;
     height: 30px;
     color: white;
     display: flex;
+}
+button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #FF9F41;
+
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+}
+.leftFoot .middleFoot .iconFoot .rightFoot .bottomFoot{
+    background-color: orange;
+    display: flex;
+}
+.leftFoot {
+    display: flex;
+    width: 180px;
+    height: 180px;
+    flex-direction: row;
 }

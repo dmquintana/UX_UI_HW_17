@@ -26,12 +26,9 @@
 }
 .rightside{
     display: flex;
-    text-align: center;
-    padding: flex;
     width: 80px;
     height: 30px;
     color: white;
-    display: flex;
 }
 button{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
